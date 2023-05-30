@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Sample Text</p>
+  <p>Hearken! Behold the glorious realm of Shadynasty, where valiant souls gather to engage in the noble art of fantasy football. In this hallowed contest, warriors of strategy and cunning assemble their chosen champions, forging bonds between the realms of sport and imagination. With quill and parchment, they draft their rosters, selecting stalwart athletes to wage gridiron battles of skill and might. As the seasons unfold, the realm resounds with the clash of titans, as these heroic gladiators vanquish foes and ascend the ranks of Shadynasty, leaving their mark upon the annals of sporting lore. Amidst cheers and fervent cries, the champions of Shadynasty strive for victory, their spirits aflame with the desire to etch their names upon the pedestal of triumph. So gather, oh valiant souls, for Shadynasty awaits, where fantasy and football entwine in an eternal dance of glory and honor.</p>
   <p>The NFL is rigged</p>
 `;
 
